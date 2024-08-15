@@ -1,0 +1,14 @@
+.presentation {
+    background-color: #1c1c1c;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+}
+
+.presentation button {
+    background-color: #61dafb;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}
